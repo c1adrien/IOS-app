@@ -1,2 +1,2 @@
 # IOS-app
-This is the code I wrote to develop an iOS messaging application.
+I created a basic iOS app that can send and receive real-time messages using Swift, an object-oriented programming language. I learned how to develop the app by following a MOOC and referring to the iOS and Swift manuals. The project was important to me and I spent a lot of time working on push notifications and integrating Firebase. It was a valuable learning experience and motivated me to create more iOS applications. I even registered for the Apple Developer Program. I particularly enjoyed working with object-oriented languages.
